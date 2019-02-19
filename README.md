@@ -1,4 +1,4 @@
-# Penjelasan Alur Progam latihan1.py, latihan2.py, dan progam1.py
+# Penjelasan latihan1.py, latihan2.py, dan progam1.py
 
 # latihan1.py
 
@@ -12,7 +12,7 @@ Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai
 
  print(a)
 
-**Perulangan for** 
+Perulangan for 
 
 perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
